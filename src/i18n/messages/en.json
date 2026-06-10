@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "work": "work",
+    "about": "about",
+    "journal": "journal",
+    "contact": "contact",
+    "menu": "menu"
+  },
+  "meta": {
+    "volume": "portfolio · vol.01",
+    "from": "tashkent → web",
+    "available": "available",
+    "quarter": "q3 / 26"
+  },
+  "hero": {
+    "name": "SENIX",
+    "makes": "makes",
+    "soft": "soft",
+    "ware": "ware",
+    "lede_a": "A",
+    "lede_age": "17-year-old",
+    "lede_b": " student building",
+    "lede_strike": "websites",
+    "lede_c": "fullstack things and flutter apps at the intersection of code and common sense. I don't believe in boring design — even when asked.",
+    "stack_label": "stack",
+    "cta_view": "view projects",
+    "cta_contact": "get in touch"
+  },
+  "side": {
+    "role": "role",
+    "role_value": "Full-stack · Mobile",
+    "stack": "stack",
+    "stack_value": "Next · React · Flutter · Py",
+    "status": "status",
+    "status_value": "open to work",
+    "based": "based",
+    "based_value": "Uzbekistan · UTC+5",
+    "since": "since"
+  },
+  "marquee": {
+    "selected": "selected",
+    "works": "works",
+    "building": "building",
+    "next": "next"
+  },
+  "projects": {
+    "title_a": "Selected",
+    "title_b": "work",
+    "subtitle": "two live projects · more in /work",
+    "visit": "visit site",
+    "see_all": "all projects"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "a bit of context",
+    "p1": "My name is Azizbek, online — Senix. 17, based in Uzbekistan, studying and writing code at the same time.",
+    "p2": "Started with Python and HTML, moved to React and Next.js, and in parallel I build mobile apps with Flutter. I take on problems that I find interesting — and ship them.",
+    "p3": "Currently open to freelance work and small product gigs. If you've got an idea — get in touch."
+  },
+  "blog": {
+    "title_a": "Journal",
+    "title_b": "& notes",
+    "subtitle": "what was too long for a commit message",
+    "empty": "nothing here yet. notes on fullstack, flutter and product thoughts are coming.",
+    "read": "read",
+    "all": "all posts",
+    "back": "← back to journal",
+    "minutes": "min"
+  },
+  "contact": {
+    "title_a": "Say hi.",
+    "title_b": "",
+    "subtitle": "work, ideas, code — drop a line.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "body": "Message",
+    "submit": "Send",
+    "submitting": "Sending...",
+    "success": "Message sent. I'll reply soon.",
+    "error": "Something went wrong. Try again or ping me on telegram.",
+    "or": "or",
+    "tg": "@darkedsnkxz on telegram",
+    "gh": "github",
+    "mail": "email"
+  },
+  "footer": {
+    "rights": "© senix",
+    "online": "● online",
+    "version": "v0.1.0",
+    "made": "built with",
+    "stack": "next · supabase · vercel"
+  },
+  "errors": {
+    "not_found_title": "404",
+    "not_found_desc": "page lost in the pipeline.",
+    "back_home": "← back home"
+  },
+  "admin": {
+    "login": "Sign in",
+    "logout": "Sign out",
+    "email": "Email",
+    "password": "Password",
+    "enter": "Enter",
+    "dashboard": "Admin",
+    "posts": "Posts",
+    "messages": "Messages",
+    "new_post": "New post",
+    "edit_post": "Edit",
+    "delete": "Delete",
+    "publish": "Publish",
+    "draft": "Draft",
+    "save": "Save",
+    "saving": "Saving...",
+    "saved": "Saved",
+    "fields": {
+      "title": "Title",
+      "slug": "Slug",
+      "excerpt": "Excerpt",
+      "content": "Content (markdown)",
+      "lang": "Language",
+      "cover": "Cover (URL)",
+      "tags": "Tags (comma separated)"
+    },
+    "messages_empty": "No messages yet.",
+    "posts_empty": "No posts yet. Create the first one.",
+    "mark_read": "Mark read",
+    "mark_unread": "Mark unread"
+  }
+}

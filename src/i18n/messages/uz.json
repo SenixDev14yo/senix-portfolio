@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "work": "ishlar",
+    "about": "men haqimda",
+    "journal": "jurnal",
+    "contact": "kontakt",
+    "menu": "menyu"
+  },
+  "meta": {
+    "volume": "portfolio · vol.01",
+    "from": "toshkent → web",
+    "available": "ochiq",
+    "quarter": "q3 / 26"
+  },
+  "hero": {
+    "name": "SENIX",
+    "makes": "yaratadi",
+    "soft": "soft",
+    "ware": "ware",
+    "lede_a": "17 yoshli",
+    "lede_age": "talaba",
+    "lede_b": ", men",
+    "lede_strike": "saytlar",
+    "lede_c": "fullstack loyihalar va flutter ilovalar yarataman — kod va sog‘lom mantiq chorrahasida. Zerikarli dizaynga ishonmayman — hatto so‘ralganda ham.",
+    "stack_label": "stack",
+    "cta_view": "loyihalarni ko‘rish",
+    "cta_contact": "bog‘lanish"
+  },
+  "side": {
+    "role": "rol",
+    "role_value": "Full-stack · Mobile",
+    "stack": "stack",
+    "stack_value": "Next · React · Flutter · Py",
+    "status": "holat",
+    "status_value": "ishga ochiq",
+    "based": "joylashuv",
+    "based_value": "Oʻzbekiston · UTC+5",
+    "since": "boshlangan"
+  },
+  "marquee": {
+    "selected": "tanlangan",
+    "works": "ishlar",
+    "building": "qurilmoqda",
+    "next": "keyingisi"
+  },
+  "projects": {
+    "title_a": "Tanlangan",
+    "title_b": "ishlar",
+    "subtitle": "ikkita live loyiha · qolganlari /work bo‘limida",
+    "visit": "saytga o‘tish",
+    "see_all": "barcha loyihalar"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "subtitle": "biroz kontekst",
+    "p1": "Ismim Azizbek, internetda — Senix. 17 yosh, Oʻzbekistonda yashayman, oʻqiyman va bir vaqtda kod yozaman.",
+    "p2": "Python va HTML dan boshladim, soʻng React va Next.js ga oʻtdim, parallel ravishda Flutter da mobil ilovalar qilaman. Menga qiziq vazifalarni olaman — va ularni prodga yetkazaman.",
+    "p3": "Hozir frilans va kichik mahsulot vazifalariga ochiqman. Agar gʻoyangiz boʻlsa — yozing."
+  },
+  "blog": {
+    "title_a": "Jurnal",
+    "title_b": "va eslatmalar",
+    "subtitle": "commit xabari uchun juda uzun boʻlgan narsalar",
+    "empty": "hozircha boʻsh. tez orada fullstack, flutter va mahsulot fikrlari haqida yozuvlar boʻladi.",
+    "read": "oʻqish",
+    "all": "barcha yozuvlar",
+    "back": "← jurnalga qaytish",
+    "minutes": "daq"
+  },
+  "contact": {
+    "title_a": "Salom ayting.",
+    "title_b": "",
+    "subtitle": "ish, gʻoyalar, kod — yozing.",
+    "name": "Ism",
+    "email": "Email",
+    "subject": "Mavzu",
+    "body": "Xabar",
+    "submit": "Yuborish",
+    "submitting": "Yuborilmoqda...",
+    "success": "Xabar yuborildi. Tez orada javob beraman.",
+    "error": "Nimadir notoʻgʻri ketdi. Qaytadan urinib koʻring yoki telegramda yozing.",
+    "or": "yoki",
+    "tg": "@darkedsnkxz telegramda",
+    "gh": "github",
+    "mail": "email"
+  },
+  "footer": {
+    "rights": "© senix",
+    "online": "● online",
+    "version": "v0.1.0",
+    "made": "qurilgan",
+    "stack": "next · supabase · vercel"
+  },
+  "errors": {
+    "not_found_title": "404",
+    "not_found_desc": "sahifa pipelineda yoʻqolgan.",
+    "back_home": "← bosh sahifaga"
+  },
+  "admin": {
+    "login": "Kirish",
+    "logout": "Chiqish",
+    "email": "Email",
+    "password": "Parol",
+    "enter": "Kirish",
+    "dashboard": "Admin",
+    "posts": "Yozuvlar",
+    "messages": "Xabarlar",
+    "new_post": "Yangi yozuv",
+    "edit_post": "Tahrirlash",
+    "delete": "Oʻchirish",
+    "publish": "Chop etish",
+    "draft": "Qoralama",
+    "save": "Saqlash",
+    "saving": "Saqlanmoqda...",
+    "saved": "Saqlandi",
+    "fields": {
+      "title": "Sarlavha",
+      "slug": "Slug",
+      "excerpt": "Qisqacha",
+      "content": "Mazmun (markdown)",
+      "lang": "Til",
+      "cover": "Muqova (URL)",
+      "tags": "Teglar (vergul bilan)"
+    },
+    "messages_empty": "Xabarlar yoʻq.",
+    "posts_empty": "Yozuvlar yoʻq. Birinchisini yarating.",
+    "mark_read": "Oʻqildi",
+    "mark_unread": "Oʻqilmadi"
+  }
+}
