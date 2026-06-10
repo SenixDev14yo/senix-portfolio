@@ -18,7 +18,7 @@
     "soft": "soft",
     "ware": "ware",
     "lede_a": "A",
-    "lede_age": "17-year-old",
+    "lede_age": "16-year-old",
     "lede_b": " student building",
     "lede_strike": "websites",
     "lede_c": "fullstack things and flutter apps at the intersection of code and common sense. I don't believe in boring design — even when asked.",
@@ -53,7 +53,7 @@
   "about": {
     "title": "About me",
     "subtitle": "a bit of context",
-    "p1": "My name is Azizbek, online — Senix. 17, based in Uzbekistan, studying and writing code at the same time.",
+    "p1": "Online — Senix. 16, based in Uzbekistan, studying and writing code at the same time.",
     "p2": "Started with Python and HTML, moved to React and Next.js, and in parallel I build mobile apps with Flutter. I take on problems that I find interesting — and ship them.",
     "p3": "Currently open to freelance work and small product gigs. If you've got an idea — get in touch."
   },

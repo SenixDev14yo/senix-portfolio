@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     default: "Senix — fullstack & flutter, Tashkent",
     template: "%s · Senix",
   },
-  description: "Personal portfolio of Senix (Azizbek). 17-year-old fullstack & mobile developer.",
+  description: "Personal portfolio of Senix. 16-year-old fullstack & mobile developer.",
   openGraph: {
     title: "Senix — fullstack & flutter, Tashkent",
     siteName: "senix.dev",

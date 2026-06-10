@@ -38,9 +38,6 @@ export default async function ContactPage({ params }: PageProps<"/[locale]/conta
           <a className="block hover:text-accent transition-colors cursor-bigger" href="https://github.com/SenixDev14yo" target="_blank" rel="noreferrer">
             <span className="text-dim">github :</span> SenixDev14yo
           </a>
-          <a className="block hover:text-accent transition-colors cursor-bigger" href="mailto:palvanovazizbek71@gmail.com">
-            <span className="text-dim">mail   :</span> palvanovazizbek71@gmail.com
-          </a>
         </aside>
       </div>
     </div>

@@ -17,7 +17,7 @@
     "makes": "yaratadi",
     "soft": "soft",
     "ware": "ware",
-    "lede_a": "17 yoshli",
+    "lede_a": "16 yoshli",
     "lede_age": "talaba",
     "lede_b": ", men",
     "lede_strike": "saytlar",
@@ -53,7 +53,7 @@
   "about": {
     "title": "Men haqimda",
     "subtitle": "biroz kontekst",
-    "p1": "Ismim Azizbek, internetda — Senix. 17 yosh, Oʻzbekistonda yashayman, oʻqiyman va bir vaqtda kod yozaman.",
+    "p1": "Internetda — Senix. 16 yosh, Oʻzbekistonda yashayman, oʻqiyman va bir vaqtda kod yozaman.",
     "p2": "Python va HTML dan boshladim, soʻng React va Next.js ga oʻtdim, parallel ravishda Flutter da mobil ilovalar qilaman. Menga qiziq vazifalarni olaman — va ularni prodga yetkazaman.",
     "p3": "Hozir frilans va kichik mahsulot vazifalariga ochiqman. Agar gʻoyangiz boʻlsa — yozing."
   },

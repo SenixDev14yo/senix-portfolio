@@ -89,7 +89,7 @@ export function Hero({
 {`
 `}<span className="text-accent-2">$</span> whoami
 {`
-`}<span className="text-fg">senix</span>  <span className="text-dim">// Азизбек, 17</span>
+`}<span className="text-fg">senix</span>  <span className="text-dim">// 16 y/o</span>
 {`
 `}<span className="text-accent-2">$</span> uname -r
 {`
