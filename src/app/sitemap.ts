@@ -4,7 +4,9 @@ import { locales } from "@/i18n/config";
 import { projects } from "@/data/projects";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const base = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+  const base =
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000");
   const staticPaths = ["", "/about", "/work", "/journal", "/contact"];
   const now = new Date();
 
